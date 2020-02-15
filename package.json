@@ -1,0 +1,12 @@
+{
+  "name": "flexible-throttle",
+  "version": "0.0.0",
+  "description": "to throttle with flexible interval",
+  "main": "index.js",
+  "keywords": ["throttle", "flexible interval", "immediate"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Li Xu <https://github.com/lix42>",
+  "license": "MIT"
+}
